@@ -1,0 +1,14 @@
+# Logs and databases #
+######################
+*.pyc
+.DS_Store
+
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+env/*
+enviroment/*
+massivecoupon-env/*
+
+build/**/*
